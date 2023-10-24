@@ -13,7 +13,25 @@ body {
   height: 56px;
   background: lightcyan;
   position: fixed;
+  padding: 0 16px;
   z-index: 1;
+}
+
+#header #left {
+  width: 169px;
+  height: 56px;
+}
+
+#header #left div {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  padding: 8px;
+  line-height: 56px;
+}
+
+#header #left div img {
+  width: 24px;
 }
 
 #sidebar {
