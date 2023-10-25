@@ -11,27 +11,142 @@ body {
 #header {
   width: 100%;
   height: 56px;
-  background: lightcyan;
+  background: #FFF;
   position: fixed;
   padding: 0 16px;
+  margin: 0;
   z-index: 1;
+  /* line-height: 56px; */
 }
 
 #header #left {
   width: 169px;
   height: 56px;
+  font-size: 0;
+  display: inline-block;
+  vertical-align: top;
 }
 
-#header #left div {
+#header #left #menu {
   display: inline-block;
+  border-radius: 50%;
   width: 24px;
   height: 24px;
   padding: 8px;
-  line-height: 56px;
+  cursor: pointer;
 }
 
-#header #left div img {
+#header #left #menu:hover {
+  background: #e6e6e6;
+}
+
+
+#header #left #menu img {
+  width: 100%;
+}
+
+#header #left #logo {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 120px;
+  height: 56px;
+  padding: 18px 14px 18px 16px;
+}
+
+#header #left #logo img {
+  width: 90px;
+}
+
+#header #left span {
+  display: inline-block;
+  height: 44px;
+  margin: 12px 0 0 -10px;
+  font-size: 10px;
+  vertical-align: top;
+  color: rgb(96, 96, 96);
+}
+
+#header #center {
+  width: 732px;
+  height: 40px;
+  display: inline-block;
+  font-size: 0;
+}
+
+#header #center #search {
+  box-sizing: border-box;
+  width: 680px;
+  height: 40px;
+  padding: 0 4px;
+  margin-left: 40px;
+  font-size: 10px;
+}
+
+#header #center #search #container {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 568px;
+  height: 40px;
+  padding: 0 4px 0 16px;
+  margin-left: 32px;
+  border-top: 1px solid rgb(204, 204, 204);
+  border-bottom: 1px solid rgb(204, 204, 204);
+  border-left: 1px solid rgb(204, 204, 204);
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+  line-height: 40px;
+}
+
+#header #center #search #container input {
+  height: 26px;
+  font-size: 16px;
+  /* line-height: 40px; */
+  color: rgb(17, 17, 17);
+  outline: none;
+  border: 0;
+}
+
+#header #center #search #searchIcon {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 64px;
+  height: 40px;
+  padding: 1px 6px;
+  background: rgb(248, 248, 248);
+  border: 1px solid rgb(204, 204, 204);
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
+}
+
+#header #center #search #searchIcon:hover {
+  background: #f0f0f0;
+}
+
+#header #center #search #searchIcon img {
   width: 24px;
+  height: 24px;
+}
+
+#header #center #voiceSearch {
+  display: inline-block;
+  margin-left: 12px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: rgb(248, 248, 248);
+  position: relative;
+}
+
+#header #center #voiceSearch img {
+  width: 24px;
+}
+
+
+
+#header #right {
+  width: 225px;
+  height: 40px;
+  display: inline-block;
 }
 
 #sidebar {
@@ -186,11 +301,12 @@ body {
   position: relative;
   top: 112px;
 }
+
 #contents .content {
   box-sizing: border-box;
   width: 288px;
-  max-width: calc((100% - 64px)/4 - 4px);
-  min-width: 260px;
+  /* max-width: calc((100% - 64px)/4 - 4px);
+  min-width: 260px; */
   display: inline-block;
   margin: 0 8px 40px 8px;
   vertical-align: top;
