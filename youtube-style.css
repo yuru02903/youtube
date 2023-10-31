@@ -9,6 +9,7 @@ body {
 }
 
 #header {
+  box-sizing: border-box;
   width: 100%;
   height: 56px;
   background: #FFF;
@@ -16,6 +17,7 @@ body {
   padding: 0 16px;
   margin: 0;
   z-index: 1;
+  font-size: 0;
   /* line-height: 56px; */
 }
 
@@ -23,7 +25,7 @@ body {
   width: 169px;
   height: 56px;
   font-size: 0;
-  display: inline-block;
+  float: left;
   vertical-align: top;
 }
 
@@ -71,21 +73,23 @@ body {
   height: 40px;
   display: inline-block;
   font-size: 0;
+  position: relative;
+  vertical-align: top;
 }
 
 #header #center #search {
   box-sizing: border-box;
-  width: 680px;
+  display: inline-block;
+  width: 640px;
   height: 40px;
   padding: 0 4px;
   margin-left: 40px;
-  font-size: 10px;
 }
 
 #header #center #search #container {
   box-sizing: border-box;
   display: inline-block;
-  width: 568px;
+  width: 536px;
   height: 40px;
   padding: 0 4px 0 16px;
   margin-left: 32px;
@@ -95,15 +99,19 @@ body {
   border-top-left-radius: 40px;
   border-bottom-left-radius: 40px;
   line-height: 40px;
+  
 }
 
 #header #center #search #container input {
   height: 26px;
+  width: 515px;
   font-size: 16px;
   /* line-height: 40px; */
   color: rgb(17, 17, 17);
   outline: none;
   border: 0;
+  display: inline-block;
+vertical-align: middle;  
 }
 
 #header #center #search #searchIcon {
@@ -116,6 +124,8 @@ body {
   border: 1px solid rgb(204, 204, 204);
   border-top-right-radius: 40px;
   border-bottom-right-radius: 40px;
+  text-align: center;
+  
 }
 
 #header #center #search #searchIcon:hover {
@@ -125,6 +135,8 @@ body {
 #header #center #search #searchIcon img {
   width: 24px;
   height: 24px;
+  position: relative;
+  top: 6px;
 }
 
 #header #center #voiceSearch {
@@ -134,26 +146,55 @@ body {
   height: 40px;
   border-radius: 50%;
   background: rgb(248, 248, 248);
-  position: relative;
+  text-align: center;
+  /* float: right; */
 }
 
 #header #center #voiceSearch img {
   width: 24px;
+  height: 24px;
+  position: relative;
+  top: 8px;
+  
 }
 
 
 
 #header #right {
-  width: 225px;
+  width: 132px;
   height: 40px;
+  float: right;
+  position: relative;
+  top: 8px;
+  
+}
+
+#header #right #more {
   display: inline-block;
+  width: 24px;
+  height: 24px;
+  padding: 8px;
+  margin-right: 8px;
+  vertical-align: top;
+
+}
+
+#header #right #more img {
+  font-size: 0;
+  width: 24px;
+  height: 24px;
+}
+
+#header #right #login1 {
+  display: inline-block;
+  position: relative;
+  top: 2px;
 }
 
 #sidebar {
   /* view port height */
   height: calc(100vh - 56px);
   width: 240px;
-  /* background: lightgoldenrodyellow; */
   position: fixed;
   left: 0;
   top: 56px;
@@ -209,6 +250,11 @@ body {
   line-height: 20px;
 }
 
+#sidebar #logingBox .marginTop12 {
+  margin: 12px 0 0 0;
+  font-size: 0;
+}
+
 #sidebar .sidebarTitle {
   padding: 6px 12px 4px 12px;
   height: 22px;
@@ -253,9 +299,10 @@ body {
   height: 36px;
   border: 0.8px solid rgba(0, 0, 0, 0.1);
   border-radius: 18px;
-  margin-top: 12px;
+  /* margin-top: 12px; */
   overflow: hidden;
   cursor: pointer;
+  display: inline-block;
 }
 
 .logingButton:hover {
@@ -268,7 +315,7 @@ body {
   width: 28px;
   height: 26px;
   position: relative;
-  margin:4px 0 0 7px;
+  margin:4px 4px 0 7px;
   transform:translateY(-40px) ;
   filter: drop-shadow(rgb(6, 95, 212) 0 40px);
 }
