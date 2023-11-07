@@ -82,7 +82,7 @@
 # 11
 片　　名：(SUB) [WOOYA LOG] 태국과 한아(하나)된 우야의 일상 | In Bangkok👋
 創 作 者：한승우 HanSeungWoo
-觀看次數：7477次
+觀看次數：7655次
 時　　間：2個月前
 網　　址：https://www.youtube.com/watch?v=OydZju7BfUM&t=170s
 主　　頁：https://www.youtube.com/@HanSeungWooOfficial
@@ -107,34 +107,34 @@
 # 14
 片　　名：230603 WOODZ(조승연) - DROWNING | 2023 World Tour [OO-LI] in Jakarta | 우즈 우리 콘서트 드라우닝 직캠 fancam
 創 作 者：KEGO 케고
-觀看次數：2.9萬次
-時　　間：4個月前
+觀看次數：3萬次
+時　　間：5個月前
 網　　址：https://www.youtube.com/watch?v=w6xuZx8srVM
-主　　頁：
+主　　頁：https://www.youtube.com/@choWOODZfan
 
 # 15
-片　　名：
-創 作 者：
-觀看次數：
-時　　間：
-網　　址：
-主　　頁：
+片　　名：24小時只吃「茶葉」料理挑戰！拿來做拉麵是促進臺日友好的秘訣～♪｜HOOK ft. SABON
+創 作 者：HOOK
+觀看次數：133萬次
+時　　間：9個月前
+網　　址：https://www.youtube.com/watch?v=Zo55RrEtkoI
+主　　頁：https://www.youtube.com/@helloiamhook
 
 # 16
-片　　名：
-創 作 者：
-觀看次數：
-時　　間：
-網　　址：
-主　　頁：
+片　　名：你說你要煮宵夜？！ 是要煮到天亮嗎？？？ 我好累...我可以去睡覺嗎？【腦波弱日常】EP55
+創 作 者：好味小姐腦波弱
+觀看次數：124萬次
+時　　間：3個月前
+網　　址：https://www.youtube.com/watch?v=HW6goQFitcU
+主　　頁：https://www.youtube.com/@ladyflavor_brain
 
 # 17
-片　　名：
-創 作 者：
-觀看次數：
-時　　間：
-網　　址：
-主　　頁：
+片　　名：VICTON 빅톤 'Virus' 안무 연습 영상 (Choreography Practice Video)
+創 作 者：VICTON 빅톤 
+觀看次數：3.8萬次
+時　　間：11個月前
+網　　址：https://www.youtube.com/watch?v=ne2a4NTWuuo
+主　　頁：https://www.youtube.com/@VICTON1109
 
 # 18
 片　　名：
