@@ -39,29 +39,28 @@
 主　　頁：https://www.youtube.com/@1theK
 
 # 6
-片　　名：我們家的8個小聰明～網友稱讚「這個」是生活智慧王😂
-創 作 者：末羊子 dontkjoanne
-觀看次數：28萬次
-時　　間：1個月前
-網　　址：https://www.youtube.com/watch?v=T31rhetQqMc&t=20s
-主　　頁：https://www.youtube.com/@dontkjoanne
+片　　名：你說你要煮宵夜？！ 是要煮到天亮嗎？？？ 我好累...我可以去睡覺嗎？【腦波弱日常】EP55
+創 作 者：好味小姐腦波弱
+觀看次數：124萬次
+時　　間：3個月前
+網　　址：https://www.youtube.com/watch?v=HW6goQFitcU
+主　　頁：https://www.youtube.com/@ladyflavor_brain
 
 # 7
+片　　名：[GOING SEVENTEEN] EP.31 순응특집 단짝 #1 (Best Friends #1)
+創 作 者：SEVENTEEN
+觀看次數：1114萬次
+時　　間：1年前
+網　　址：https://www.youtube.com/watch?v=T5etCb0-pO0
+主　　頁：https://www.youtube.com/@pledis17
+
+# 8
 片　　名：古埃及人三餐吃什麼？生吃木乃伊能治百病？【料理史王#2】｜HOOK
 創 作 者：HOOK
 觀看次數：203萬次
 時　　間：2年前
 網　　址：https://www.youtube.com/watch?v=_xx0TZngEnw
 主　　頁：https://www.youtube.com/@helloiamhook
-
-# 8
-片　　名：完了完了要掛掉了！！！史上最緊急企劃！！！ 【腦波弱日常】EP61
-創 作 者：好味小姐腦波弱
-觀看次數：52萬次
-時　　間：1個月前
-網　　址：https://www.youtube.com/watch?v=rKAyCZt6be4&t=494s
-主　　頁：https://www.youtube.com/@ladyflavor_brain
-
 
 # 9
 片　　名：[sub]🧳EP.3-1ㅣ장담컨대 이 랜덤플레이댄스를 보면, 입덕 시작 | 🧳출장십오야2 x 하이브
@@ -121,12 +120,12 @@
 主　　頁：https://www.youtube.com/@helloiamhook
 
 # 16
-片　　名：你說你要煮宵夜？！ 是要煮到天亮嗎？？？ 我好累...我可以去睡覺嗎？【腦波弱日常】EP55
-創 作 者：好味小姐腦波弱
-觀看次數：124萬次
-時　　間：3個月前
-網　　址：https://www.youtube.com/watch?v=HW6goQFitcU
-主　　頁：https://www.youtube.com/@ladyflavor_brain
+片　　名：我們家的8個小聰明～網友稱讚「這個」是生活智慧王😂
+創 作 者：末羊子 dontkjoanne
+觀看次數：28萬次
+時　　間：1個月前
+網　　址：https://www.youtube.com/watch?v=T31rhetQqMc&t=20s
+主　　頁：https://www.youtube.com/@dontkjoanne
 
 # 17
 片　　名：VICTON 빅톤 'Virus' 안무 연습 영상 (Choreography Practice Video)
@@ -137,28 +136,28 @@
 主　　頁：https://www.youtube.com/@VICTON1109
 
 # 18
-片　　名：
-創 作 者：
-觀看次數：
-時　　間：
-網　　址：
-主　　頁：
+片　　名：完了完了要掛掉了！！！史上最緊急企劃！！！ 【腦波弱日常】EP61
+創 作 者：好味小姐腦波弱
+觀看次數：52萬次
+時　　間：1個月前
+網　　址：https://www.youtube.com/watch?v=rKAyCZt6be4&t=494s
+主　　頁：https://www.youtube.com/@ladyflavor_brain
 
 # 19
-片　　名：
-創 作 者：
-觀看次數：
-時　　間：
-網　　址：
-主　　頁：
+片　　名：[4K] 200105 New world concert - VICTON(빅톤) : Light / 승식(SEUNGSIK) Focus
+創 作 者：LIGHT : ON
+觀看次數：5.5萬次
+時　　間：3年前
+網　　址：https://www.youtube.com/watch?v=EhClf9H2Hio&t=170s
+主　　頁：https://www.youtube.com/@LIGHTON416
 
 # 20
-片　　名：
-創 作 者：
-觀看次數：
-時　　間：
-網　　址：
-主　　頁：
+片　　名：sub) VLOG | 봄에 태어난 나의 어느 봄날☘️| Birthday vlog 🎂
+創 作 者：숩이 soop
+觀看次數：6986次
+時　　間：5個月前
+網　　址：https://www.youtube.com/watch?v=rOcV-5vhT2k
+主　　頁：https://www.youtube.com/@soop4964
 
 
 
