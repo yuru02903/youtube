@@ -53,6 +53,7 @@ body {
   width: 120px;
   height: 56px;
   padding: 18px 14px 18px 16px;
+  cursor: pointer;
 }
 
 #header #left #logo img {
@@ -184,6 +185,7 @@ body {
   padding: 8px;
   margin-right: 8px;
   vertical-align: top;
+  cursor: pointer;
 }
 
 #header #right #more img {
